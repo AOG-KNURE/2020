@@ -1,0 +1,1 @@
+This repository contains students projects archive regarding Computational Geometry course
