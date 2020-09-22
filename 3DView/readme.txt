@@ -1,0 +1,1 @@
+simple3d.py требует pygame

@@ -1,0 +1,1 @@
+oil_towers.py требует numpy
