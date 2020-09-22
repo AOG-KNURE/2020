@@ -1,1 +1,1 @@
-simple3d.py requires pygame
+simple3d.py requires pygame lib

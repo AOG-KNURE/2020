@@ -1,1 +1,1 @@
-oil_towers.py requires numpy
+oil_towers.py requires numpy lib
